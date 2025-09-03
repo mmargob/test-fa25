@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE,cache=TRUE,
 ```{r, echo=FALSE} 
 library(ISLR) 
 ```
-hello
+hello, I am maxx
 ```{r}
 data("Wage") 
 dim(Wage)
